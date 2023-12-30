@@ -1,6 +1,6 @@
 # Educational Course Scraper
 
-This collection of scripts was made to scrape educational course data from prominent online learning platforms such as Coursera, edX, Udemy, MIT OpenCourseWare (OCW), and LinkedIn Learning. The eventual goal of this scraped data was to be used to generate data embeddings for a GPT chat bot, giving it the ability to recommend online courses to a user.
+This collection of scripts was made to scrape educational course data from prominent online learning platforms such as Coursera, edX, MIT OpenCourseWare (OCW), and LinkedIn Learning. The eventual goal of this scraped data was to be used to generate data embeddings for a GPT chat bot, giving it the ability to recommend online courses to a user.
 
 index.js is the main function of the entire script, but each individual script should also be able to be run with example main() provided.
 ## Scripts Overview
